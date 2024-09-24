@@ -7,7 +7,7 @@
 - 🌱 I have basic knowledge **Web Development with ASP.NET MVC**
 
 - 📫 How to reach me **uguzyusuf60@gmail.com**
-- 🌐 My website -> <a href="https://yusufuguz.com" target="_blank"></a>
+- 🌐 My website -> <a href="https://yusufuguz.com" target="_blank">yusufuguz.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
