@@ -7,13 +7,13 @@
 - 🌱 I have basic knowledge **Web Development with ASP.NET MVC**
 
 - 📫 How to reach me **uguzyusuf60@gmail.com**
+- 🌐 My website -> **yusufuguz.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yusufuguz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yusufuguz0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yusufuguz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufuguz" height="30" width="40" /></a>
 <a href="https://instagram.com/yusufuguz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufuguz0" height="30" width="40" /></a>
-  <a href="https://yusufuguz.com" target="blank"><img align="center" src="🌐" alt="yusufuguz.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
