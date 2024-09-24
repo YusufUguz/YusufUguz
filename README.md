@@ -1,9 +1,10 @@
 <h1 align="center">Hi There 👋, I'm Yusuf</h1>
-<h3 align="center">Computer Engineering Student in Mersin University</h3>
+<h3 align="center">Computer Engineer,Mobile Application and Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufuguz&label=Profile%20views&color=0e75b6&style=flat" alt="yusufuguz" /> </p>
 
-- 🌱 I’m currently learning **Flutter and ASP.NET MVC**
+- 🖥️ I'm experienced in **Flutter And ASPNET Core Web API.**
+- 🌱 I have basic knowledge **Web Development with ASP.NET MVC**
 
 - 📫 How to reach me **uguzyusuf60@gmail.com**
 
@@ -12,6 +13,7 @@
 <a href="https://twitter.com/yusufuguz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yusufuguz0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yusufuguz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufuguz" height="30" width="40" /></a>
 <a href="https://instagram.com/yusufuguz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufuguz0" height="30" width="40" /></a>
+  <a href="https://yusufuguz.com" target="blank"><img align="center" src="🌐" alt="yusufuguz.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
