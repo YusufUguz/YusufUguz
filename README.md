@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufuguz&label=Profile%20views&color=0e75b6&style=flat" alt="yusufuguz" /> </p>
 
 - 🖥️ I'm experienced in **Flutter And ASPNET Core Web API.**
-- 🌱 I have basic knowledge **Web Development with ASP.NET MVC**
+- 🌱 I have basic knowledge **Web Development with ASP.NET MVC** and **Native Android with Kotlin**
 
 - 📫 How to reach me **uguzyusuf60@gmail.com**
 - 🌐 My website -> <a href="https://yusufuguz.com" target="_blank">yusufuguz.com</a>
