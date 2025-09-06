@@ -1,10 +1,9 @@
 <h1 align="center">Hi There 👋, I'm Yusuf</h1>
-<h3 align="center">Computer Engineer,Mobile Application and Web Developer</h3>
+<h3 align="center">Computer Engineer,Mobile App and Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufuguz&label=Profile%20views&color=0e75b6&style=flat" alt="yusufuguz" /> </p>
 
-- 🖥️ I'm experienced in **Flutter And ASPNET Core Web API.**
-- 🌱 I have basic knowledge **Web Development with ASP.NET MVC** and **Blazor.**
+- 🖥️ I'm experienced in **Flutter , ASPNET Core Web API and Blazor.**
 
 - 📫 How to reach me **uguzyusuf60@gmail.com**
 - 🌐 My website -> <a href="https://yusufuguz.com" target="_blank">yusufuguz.com</a>
