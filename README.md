@@ -25,7 +25,7 @@ education: Computer Engineering @ Mersin University
 focus:
   - Flutter & Dart cross-platform mobile apps
   - ASP.NET Core Web API & Blazor backends
-  - Firebase, MSSQL Server & Microsoft Azure, Github Actions(CI/CD) 
+  - Firebase, MSSQL Server & Microsoft Azure, Github Actions(CI/CD)
 currently_building: AI-powered & API-driven products
 website: yusufuguz.com
 ```
@@ -65,8 +65,8 @@ website: yusufuguz.com
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YusufUguz&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=en" alt="Yusuf's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufUguz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-chi-five-69.vercel.app/api?username=YusufUguz&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=en" alt="Yusuf's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-chi-five-69.vercel.app/api/top-langs/?username=YusufUguz&layout=compact&count_private=true&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -76,12 +76,9 @@ website: yusufuguz.com
 ### 📈 Commit & Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YusufUguz&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YusufUguz&count_private=true&include_all_commits=true&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YusufUguz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
-</p>
 
 ---
 
